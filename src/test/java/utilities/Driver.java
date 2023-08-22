@@ -16,7 +16,7 @@ public class Driver {
            driver objesine erisilmesini engelledik
 
            Constructor'i private yaparak bu class'dan obje olusturularak
-           class uyelerinin kullanilmasinin onune gecti
+           class uyelerinin kullanilmasinin onune gectik
         */
     }
     public static WebDriver getDriver(){

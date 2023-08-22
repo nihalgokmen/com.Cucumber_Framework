@@ -5,4 +5,4 @@ Feature: US1008 Toplu Kullanici listesi Ile Negatif Login Testi
 
     Given Kullanici "qdUrl" anasayfaya gider
     Then ilk login linkine click yapar
-    And user email olarak "<email>"
+    And user email olarak "email"
